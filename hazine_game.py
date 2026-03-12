@@ -48,7 +48,6 @@ while menu==1:
                 temp.append("?")
             glist.append(temp.copy())
             temp.clear()
-        #//////////////////////////////////
         secilen=[]
         can=3
         puan=0
